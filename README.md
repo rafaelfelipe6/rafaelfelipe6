@@ -4,6 +4,8 @@
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelfelipe6&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfelipe6)](https://github.com/rafaelfelipe6/github-readme-stats)
+
 ## Tecnologias Conhecidas
 
 <div style="display: inline_block"><br/>
